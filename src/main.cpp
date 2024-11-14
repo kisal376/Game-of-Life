@@ -10,8 +10,8 @@ int main()
     const int WINDOW_WIDTH = 1500;
     const int WINDOW_HEIGHT = 1500;
     int CELL_SIZE = 10;
-    int defaultFPS = 10;
-    int highFPS = 40;
+    int defaultFPS = 60;
+    int highFPS = 200;
     int lowFPS = 1;
     Color GREY = {30, 30, 30, 255}; // type Color takes in rgbα values
 
